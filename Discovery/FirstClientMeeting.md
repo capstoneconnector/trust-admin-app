@@ -39,7 +39,7 @@ Clayton
 - Use AWS
 - System used by: Executive role, Investor role, Trust officer (admin and finacial advisor), and Operations role (Data entry and posting income)
 - Project takes web application and moves it to mobile. 
-- Xamerin
+- Xamarin
 - Entire stack is .NET based
 
 ## Screenshot
