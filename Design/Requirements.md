@@ -1,0 +1,29 @@
+# Functional Requirements
+- **FR1**: The application shall provide access to a customer's personal account information : `High`
+- **FR2**: The application shall show a high level portfolio view consisting of accounts including : `High`
+    - **FR2-1**: Name of account : `High`
+    - **FR2-2**: Cash from income and principal : `High`
+    - **FR2-3**: Account's market value : `High`
+    - **FR2-4**: Relationships : `High`
+    - **FR2-5**: Addresses tied to relationships : `High`
+    - **FR2-6**: Support for `Google Maps`/`Waze` : `High`
+    - **FR2-7**: Customer documents : `High`
+    - **FR2-8**: Limited transaction history of the client (past month) : `High`
+- **FR3**: The application shall allow administrators to access their daily tasks : `High`
+    - **FR3-1**: Resolve Tasks : `High`
+    - **FR3-2**: Dismiss Tasks : `High`
+    - **FR3-3**: Receive push notifications for any given task : `Medium`
+- **FR4**: The application shall allow administrators to interact with activities : `High`
+    - **FR4-1**: Create new activities : `High`
+    - **FR4-1**: Edit activities : `High`
+- **FR5**: The application shall allow administrators to view items sent for approval : `High`
+    - **FR5-1**: Approve items : `High`
+    - **FR5-1**: Use push notifications to notify admins of pending items : `Medium`
+# Non-functional Requirements
+- **NR1**: The application should be a mobile app for `iOS` : `High`
+- **NR1**: The application should be a mobile app for`Android` : `Medium`
+- **NR1**: The application should be a built using `Xamarin` : `High`
+- **NR2**: The application will be designed for administrators of `Cheetah` : `High`
+- **NR3**: No other individuals shall be permitted access to information in the app : `High`
+- **NR4**: UI must be intuitive and user-friendly : `Medium`
+- **NR5**: Authentication must be saved to make sign-in automatic : `High`
