@@ -1,5 +1,5 @@
 # Functional Requirements
-- **FR1**: The application shall provide access to a customer's personal account information : `BR4` : `High`
+- **FR1**: The application shall provide access to a Trust Admin's personal account information : `BR4` : `High`
 - **FR2**: The application shall show a high level portfolio view consisting of accounts including : `BR4` : `High`
     - **FR2-1**: Name of account : `BR4` : `High`
     - **FR2-2**: Cash from income and principal : `BR4` : `High`
