@@ -35,3 +35,4 @@ The Eve app is a place for businesses connect with each other. You will be able 
 - The concept of the assistant Eve was a little confusing. It sounds like a virtual assistant to help with questions but there was not a place in the domain model or prototype for it. That should be clarified more.
 - For the prototype, it looks like they only took into consideration the first iteration features. There should be pages of the other information so that we have an idea about what that would look like too.
 - In the prototype, the information screen when you try to sign up should be presented somewhere before you click the sign up button. Most people would like to know what the program is about and probably would not even try to sign up if they do not know what it is about.
+### [Click Here for Team Meeting](https://github.com/mkeen31/trust-admin-app/blob/master/MeetingMinutes/Team/10-30-2020.md)
