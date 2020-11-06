@@ -1,0 +1,41 @@
+
+# Week of 11/01/2020 - 10/07/2020
+
+## Meeting start time
+**2020/11/06/17:00**
+
+## Meeting end time
+**2020/11/06/17:30**
+
+## Location
+Zoom call
+
+## Members present
+Clayton Mercer, Michael Keen, Jakob Lamb, Christo Staszewski
+
+## Minute recorder
+Christopher Staszewski
+
+## Topics Discussed
+- Briefly made sure everyone had the environment setup correctly and could test via an Android/IOS emulation
+- Decide how we are going to approach the functionality of the first iteration
+- Decide what functionality we will focus on for the coming week
+- Git overview of features
+- Clayton lead this time, Michael will lead next meeting
+
+## Things clarified
+- Who is assigned to what for this coming week
+	- Christo
+		- Layout (functional layout, design materials later)
+		- Look into unit testing for layout/rendering
+	- Clayton
+		- Login information (printed to console for testing with)
+		- Basic unit tests
+	- Jakob
+		- Basic UI for basic information (getting information from cheetah)
+	- Michael
+		- Post edited information to cheetah
+		- Unit tests to grab and test updated information
+- The order of development is as shown above (roughly)
+- We decided to have a Development branch in our repo which we will branch off of for any particular feature. This will then be pushed and a pull request will be made to be pulled into development and then into the master branch.
+- We also decided to ask our contacts to see what accounts we have available to us to edit and do unit testing with
