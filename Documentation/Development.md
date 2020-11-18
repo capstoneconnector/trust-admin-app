@@ -5,6 +5,10 @@
 - An Android device (Pixel 2 Pie 9.0) emulator must be installed into Visual Studio and optionally an iOS phone as well (if running on an Apple Device)
 	- This is done by going to the run code dropdown and going to Android Device Manager to install an Android Device
 ### [Android SDK](https://developer.android.com/studio)
+### [XCode 12.1](https://developer.apple.com/xcode/)
+ - This is the development information for iOS development in the situation that the developer is able to build and deploy code for iOS (requires an Apple Computer and publishing rights)
+### ACS SDK
+- This is an internal SDK provided to us for Cheetah API calls and communication with internal systems.
 ## Development Environment
 ### Cloning the code
 - Follow [these instruction](https://support.atlassian.com/bitbucket-cloud/docs/clone-a-repository/) to make a local clone of the repo. Alternatively the code can be [cloned through Visual Studio 2019](https://docs.microsoft.com/en-us/visualstudio/get-started/tutorial-open-project-from-repo?view=vs-2019)
