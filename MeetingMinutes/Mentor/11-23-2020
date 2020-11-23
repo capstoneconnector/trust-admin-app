@@ -1,0 +1,47 @@
+
+# Mentor Meeting on 11/13/2020
+
+## Meeting Start Time
+
+2020/11/23/13:00
+
+## Meeting End Time
+
+2020/11/23/13:30
+
+## [Location/Medium
+
+Zoom call
+
+## Present
+
+Clayton Mercer, Michael Keen, Christo Staszewski, Ryland Babusiak
+
+## Minute Recorder
+
+Christo Staszewski
+
+## Topics Discussed
+- Software (1st Iteration)
+- User Documentation (1st Iteration)
+- Development Documentation (1st Iteration)
+- Deployment Documentation (1st Iteration)
+
+## Things Clarified
+
+- Software
+	- Make a dynamic XAPI key rather than hardcoding (next Iteration maybe)
+		- Ryland Suggests that we setup a config with some different XAPI keys
+	- The functionality we offer to the client is the ability to view your accounts on mobile
+	- Test that returning information is the correct type and such
+	- Editing data needs to be tested
+- Development Documentation
+	- Clarify that no one else can realistically test it other than us
+- Deployment Documentation
+	- Ryland thinks this is okay
+- User Documentation
+	- Ryland thinks this is okay
+- General Recommendations
+	- Add pictures to our Documentation Guides
+	- Development documentation should be a step by step process
+	- Be specific in our documentation
