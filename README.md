@@ -12,5 +12,5 @@ This project is a mobile application intended for administrators of Accutech Sys
 ## Links
 - [Project Management](https://github.com/mkeen31/trust-admin-app/projects/1)
 - [Notes](https://docs.google.com/document/d/1241ho4WIxOGItz6fF2dxd29mmKQoeIE7POQDfONjSqU/edit?usp=sharing)
-- [Iteration_1](Development/bsu.tap.zip)
+- [Iteration_1](https://bitbucket.org/accutechdev/bsu.tap/src/v1.0.0/)
 ## Code Repositories
