@@ -33,5 +33,5 @@ Betterflye is a company that allows users to track their social impact with volu
 ### Suggestions for improvement
 - The sign-up page is impressive, but maybe next time dedicate more functionality to users who are already logged in
 - Maybe add more styling to the QR code page, and to all future pages that user sees when they log in.
-- 
+
 ### [Click Here for Team Meeting](https://github.com/mkeen31/trust-admin-app/blob/master/MeetingMinutes/Team/12-4-2020.md)
