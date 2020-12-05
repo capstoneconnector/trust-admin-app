@@ -34,4 +34,8 @@ Betterflye is a company that allows users to track their social impact with volu
 - The sign-up page is impressive, but maybe next time dedicate more functionality to users who are already logged in
 - Maybe add more styling to the QR code page, and to all future pages that user sees when they log in.
 
+## What did we do wrong in this Iteration & How Will We Improve for Next Iteration
+- In this iteration we focused too much on getting backend support setup before we made the software functional. This can be solved by approaching this iteration with functionality and utility in mind.
+- In this iteration we lacked automated testing. We can fix this by writing tests for the 1st iteration and the current iterations in the future.
+- Our Team organization was too loose during the first Iteration. Much of our work was reliant on the work of our teammates, when we should have made it much more modular for ease of testing and to allow people to work simultaneously to get better functionality, better modularity, and proper testing.
 ### [Click Here for Team Meeting](https://github.com/mkeen31/trust-admin-app/blob/master/MeetingMinutes/Team/12-4-2020.md)
