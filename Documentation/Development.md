@@ -20,6 +20,8 @@
 	 - This is where the Android version of the application resides. Most of the functionality is drawn from the main project.
 - TrustAdminApp.iOS
 	 - This is where the iOS version of the application resides. Most of the functionality is drawn from the main project
+- UnitTests -> TrustAdminAppTests
+	- This is where the automatic tests are written and stored.
 ### Main Application Structure
 - Models
 	- This is where our Models go according to the [Model, View, ViewModel structure](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
@@ -34,8 +36,14 @@
 - AppShell.xaml
 	- This handles the main hierarchy and navigation for the application via creation of the Taskbar and the main Login Page
 ### Testing Your Environment
-- To test if your environment is working, you should click the run button in visual studio, using your Android Emulator
-- You should see (after the environment is built and running) a phone emulator with a log in page Use your Cheetah login information to log in and continue
--  You should then come to a blank page and four tabs at the bottom. You should be able to click through the different tabs to then see 2 blank pages and a Settings page along with an Accounts page
-- The Settings page should have a logout button, and the Accounts Page should show some accounts for the logged in user
-- If everything worked, your environment is setup correctly
+- Automated testing
+	- Drop down the folder in the Solution Explorer Labeled "UnitTests"
+	- Right click TrustAdminAppTests and build the project
+	- After the build is complete, Right click the TrustAdminAppTests and click the "Run Tests" option.
+	- This should open a Test Explorerer and all tests should pass
+- Testing your Emulator
+	- To test if your environment is working, you should click the run button in visual studio, using your Android Emulator
+	- You should see (after the environment is built and running) a phone emulator with a log in page Use your Cheetah login information to log in and continue
+	-  You should then come to a blank page and four tabs at the bottom. You should be able to click through the different tabs to then see 2 blank pages and a Settings page along with an Accounts page
+	- The Settings page should have a logout button, and the Accounts Page should show some accounts for the logged in user
+	- If everything worked, your environment is setup correctly
