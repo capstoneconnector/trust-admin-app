@@ -13,6 +13,10 @@
 ## Development Environment
 ### Cloning the code
 - Follow [these instruction](https://support.atlassian.com/bitbucket-cloud/docs/clone-a-repository/) to make a local clone of the repo. Alternatively the code can be [cloned through Visual Studio 2019](https://docs.microsoft.com/en-us/visualstudio/get-started/tutorial-open-project-from-repo?view=vs-2019)
+### Visual Studio Settings
+- Disable Parallel project builds
+	- On Windows, this is accessed through Tools > Options > Project and Solutions > Build and Run | Set Maxiumum number of parallel project builds to 1
+	- On MAC OS/OS X, this is accessed through Visual Studio > Preferences > Build | Disable parallel project builds
 ### Project Structure Overview
  - TrustAdminApp
 	 - This is the main project location. This is where shared code between iOS and Android (according to Xamarin) is run and compiled into the Android and iOS versions respectively 
