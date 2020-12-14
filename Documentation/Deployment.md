@@ -30,6 +30,8 @@ For Android direct deployment:
 - Go to the bin\release Folder, you could find your app in apk format. Use application with Signed extension(Signed.apk)
 - Install the apk on your device.
 
+## Testing
+- There is a second project in the main project called TrustAdminAppTests and it contains all the unit tests that cover the main project's functionaltiy. During development, building and running all the projects is a one click action in the IDE, but if an engineer wants to compile and run these from the command line, the step-by-step process is desribed in [Microsoft's MSBuild documentation](https://docs.microsoft.com/en-us/visualstudio/msbuild/walkthrough-using-msbuild?view=vs-2019)
 ## Troubleshooting
 Assuming the development environment is set up correctly via the [Development Documentation](Development.md), if at any time
 the deployment process fails, try:

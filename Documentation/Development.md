@@ -45,6 +45,8 @@
 	- Right click TrustAdminAppTests and build the project
 	- After the build is complete, Right click the TrustAdminAppTests and click the "Run Tests" option.
 	- This should open a Test Explorerer and all tests should pass
+	- If it fails, it's because the IDE is configured to run buid processes in parellel, which will cause build issues. To disable parellel builds for Windows Visual Studio, select Tools > Options > Projects and Solutions > Build and Run > Set maximum number of parallel project builds to 1. For Mac, click Visual studio preferences, under Projects select Build, then uncheck `Enable parallel build of projects`.
+		- After that fix, Clean all projects and rebuild all projects
 - Testing your Emulator
 	- To test if your environment is working, you should click the run button in visual studio, using your Android Emulator
 	- You should see (after the environment is built and running) a phone emulator with a log in page Use your Cheetah login information to log in and continue
