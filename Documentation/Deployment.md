@@ -25,8 +25,9 @@ For this reason, here is the deployment route for direct deployment for `iOS`.
 [Direct publishing Xamarin.iOS apps to iPhone](https://docs.microsoft.com/en-us/xamarin/ios/deploy-test/app-distribution/app-store-distribution/publishing-to-the-app-store?tabs=macos)
 
 For Android direct deployment:
-- Just set the solution to release mode.
-- Right Click your `Android` Main Project -> Export Android Package(.apk)
+- Just set the solution to Release mode by right clicking your `Android` Main project > Properties > Android Options > Configuration > Release.
+- Right Click your `Android` Main Project -> Export Android Package(.apk) on OSX, and `Android` Main project > Archive for Windows.
+- Sign the APK in the Archive Manager using an Ad Hoc keystore or a Google Play keystore.
 - Go to the bin\release Folder, you could find your app in apk format. Use application with Signed extension(Signed.apk)
 - Install the apk on your device.
 
