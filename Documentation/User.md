@@ -65,11 +65,15 @@ To resolve or dismiss a task, just tap on the task in question and it will take 
 
 The page loads the `Resolve` tab by default. If you want to resolve the task, tap the `Resolve` button in the middle of the page. If the operation was successful, you will receive a pop-up notification indicating so. Otherwise, a pop-up notification with an error message will be displayed.
 
+![Resolve Tasks Error Message](UserPictures/resolve-task-error.PNG)
+
 If you want to dismiss the task, tap the `Dismiss` tab next to the `Resolve` tab. You will then be taken to the following page:
 
 ![Dismiss Tasks Page](UserPictures/dismiss-task.PNG)
 
 If you want to dismiss the task, add any comments you wish (or none at all), and then tap the `Dismiss` button below the comment field. If the operation was successful, you will receive a pop-up notification indicating so. Otherwise, a pop-up notification with an error message will be displayed.
+
+![Dismiss Tasks Error Message](UserPictures/dismiss-task-error.PNG)
 
 ### Files
 
