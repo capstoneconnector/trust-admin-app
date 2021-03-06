@@ -55,10 +55,21 @@ To view more information on a certain transaction, just tap on that certain tran
 
 ### Tasks and Activities
 
-To view this page, please refer to the section above on how to navigate here. Once you navigate to the tasks and activities, it will show you all tasks and activities connected to that account. 
+To view this page, please refer to the section above on how to navigate here. Once you navigate to the tasks and activities, it will show you all tasks and activities connected to that account. You can also view all tasks and activities by tapping the `Assignments` tab in the app's main navigation bar.
 
-To view more information on a certain tasks and activities, just tap on those certain tasks or activities. 
+![Main Assignments Page](UserPictures/main-assignments-page.PNG)
 
+To resolve or dismiss a task, just tap on the task in question and it will take you to the following page:
+
+![Resolve Tasks Page](UserPictures/resolve-task.PNG)
+
+The page loads the `Resolve` tab by default. If you want to resolve the task, tap the `Resolve` button in the middle of the page. If the operation was successful, you will receive a pop-up notification indicating so. Otherwise, a pop-up notification with an error message will be displayed.
+
+If you want to dismiss the task, tap the `Dismiss` tab next to the `Resolve` tab. You will then be taken to the following page:
+
+![Dismiss Tasks Page](UserPictures/dismiss-task.PNG)
+
+If you want to dismiss the task, add any comments you wish (or none at all), and then tap the `Dismiss` button below the comment field. If the operation was successful, you will receive a pop-up notification indicating so. Otherwise, a pop-up notification with an error message will be displayed.
 
 ### Files
 
