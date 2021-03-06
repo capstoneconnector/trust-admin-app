@@ -74,6 +74,68 @@ To view more information on a certain relationship, just tap on that certain rel
 
 <img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/Simulator%20Screen%20Shot%20-%20Iphone%20-%202021-02-08%20at%2018.17.53.png" width="600">
 
+#### Adding Relationships
+To add a relationship, tap `Add`.
+
+![Add Button](UserPictures/relationships_page.PNG)
+
+Select a person from the dropdown
+
+![Select a person](UserPictures/select_a_person.PNG)
+
+Select a role for the person
+
+![Select a role](UserPictures/select_role.PNG)
+
+Confirm the person for the new role
+
+![Confirm Person](UserPictures/relationship_confirm.PNG)
+
+Follow the prompts through the form
+
+Here is an example of a percentage input
+
+![Percentage](UserPictures/enter_percentage.PNG)
+
+Here is an example of a yes/no input
+
+![Yes/no](UserPictures/yes_no_relationship.PNG)
+
+Accept Final Confirmation
+
+![Final Confirmation](UserPictures/final_confirmation.PNG)
+
+An unsuccessful message shows up (If you are not authorized to add this person to this account as that role, it will tell you and redirect you to select a new role)
+
+![Unsuccessful relationship](UserPictures/relationship_unsuccessful.PNG)
+
+A successful message shows up (Then after closed brings the user back to the account page)
+
+![successful relationship](UserPictures/successful_relationship.PNG)
+
+
+The new relationship now shows up under relationships and is `Active` (The one with the 'Unknown role')
+
+![a new relationship](UserPictures/new_relationship.PNG)
+
+#### Deactivating Relationships
+
+To Deactivate a relationship, select the relationship and press `Deactivate`
+
+![Unsuccessful relationship](UserPictures/deactivate_relationship_button.PNG)
+
+If you don't have authorization to deactivate the relationship, this message will display:
+
+![Unsuccessful deactivation](UserPictures/deactivation_unsuccessful.PNG)
+
+If the deactivation was successful, this message will display and you will be taken back to the account page:
+
+![successful deactivation](UserPictures/success_deactivation.PNG)
+
+Now in the relationships page, the new relationship now displays `Is Active` as `False`
+
+![successful deactivation](UserPictures/now_deactivated.PNG)
+
 ## Reviews
 Features coming soon to this page.
 
