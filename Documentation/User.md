@@ -39,9 +39,15 @@ To view these please refer to the section above on how to navigate to those spec
 
 ### Transactions
 
-To view this page, please refer to the section above on how to navigate here. Once you navigate to the transactions, it will show you all transactions connected to that account. 
+To view this page, please refer to the section above on how to navigate here. Once you navigate to the transactions, it will show you all pending transactions connected to that account. 
 
-<img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/Simulator%20Screen%20Shot%20-%20Iphone%20-%202021-02-08%20at%2017.56.13.png" width="600">
+<img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/PendingTransactions.png" width="600">
+
+There are also Historical Transactions and a Placeholder for Scheduled Transactions.
+
+<img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/HistoryTransactions.png" width="600">
+
+<img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/ScheduledTransactions.png" width="600">
 
 To view more information on a certain transaction, just tap on that certain transaction. 
 
