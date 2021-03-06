@@ -59,6 +59,14 @@ To view this page, please refer to the section above on how to navigate here. On
 
 ![Main Assignments Page](UserPictures/main-assignments-page.PNG)
 
+To create a new activity, you must navigate to an account, go to their account specific tasks and activities. You can then click the add button in the top right corner to create a new activity for that acocunt. 
+
+![Single Activities Page](UserPictures/ActivitiesPage.png)
+
+You can then just fill out the form and click on the go button in the corner to create the new activity for that account. 
+
+![Add Activities Page](UserPictures/AddActivities.png)
+
 To resolve or dismiss a task, just tap on the task in question and it will take you to the following page:
 
 ![Resolve Tasks Page](UserPictures/resolve-task.PNG)
