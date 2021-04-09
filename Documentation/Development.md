@@ -53,3 +53,7 @@
 	-  You should then come to a blank page and four tabs at the bottom. You should be able to click through the different tabs to then see 2 blank pages and a Settings page along with an Accounts page
 	- The Settings page should have a logout button, and the Accounts Page should show some accounts for the logged in user
 	- If everything worked, your environment is setup correctly
+
+### Push Notifications
+- Push notifications are a multitier architecture feature that can be built between Xamarin, Azure, and FireBase. Here is some [Microsoft documentation](https://docs.microsoft.com/en-us/azure/developer/mobile-apps/notification-hubs-backend-service-xamarin-forms) for building out this service. 
+	- To avoid bloatware and excessive app sizes, we ommitted this feature because of lack of resources and access to backend company services. Accutech is aware of this update. 
