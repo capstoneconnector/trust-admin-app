@@ -63,6 +63,8 @@ To create a new activity, you must navigate to an account, go to their account s
 
 You can then just fill out the form and click on the go button in the corner to create the new activity for that account. 
 
+![Add Activities Page](UserPictures/AddActivities.png)
+
 You can edit an activity by just clicking on the activity and clicking yes to confirm editing it. 
 
 <img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/EditActivityConfirmation.png" width="600">
@@ -70,8 +72,6 @@ You can edit an activity by just clicking on the activity and clicking yes to co
 Then you edit the prefilled form and click on the submit button in the bottom.
 
 <img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/EditActivityPage.png" width="600">
-
-![Add Activities Page](UserPictures/AddActivities.png)
 
 To resolve or dismiss a task, just tap on the task in question and it will take you to the following page:
 
