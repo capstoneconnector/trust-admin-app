@@ -61,9 +61,15 @@ To view this page, please refer to the section above on how to navigate here. On
 
 To create a new activity, you must navigate to an account, go to their account specific tasks and activities. You can then click the add button in the top right corner to create a new activity for that acocunt. 
 
-![Single Activities Page](UserPictures/ActivitiesPage.png)
-
 You can then just fill out the form and click on the go button in the corner to create the new activity for that account. 
+
+You can edit an activity by just clicking on the activity and clicking yes to confirm editing it. 
+
+<img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/EditActivityConfirmation.png" width="600">
+
+Then you edit the prefilled form and click on the submit button in the bottom.
+
+<img src="https://github.com/mkeen31/trust-admin-app/blob/master/Documentation/UserPictures/EditActivityPage.png" width="600">
 
 ![Add Activities Page](UserPictures/AddActivities.png)
 
